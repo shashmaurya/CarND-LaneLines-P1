@@ -7,14 +7,13 @@
 
 The goals / steps of this project are the following:
 * Make a pipeline that finds lane lines on the road
-* Reflect on your work in a written report
+* Reflect the work done in a written report
 
 
 [//]: # (Image References)
 
-#[image1]: ./examples/grayscale.jpg "Grayscale"
 [image1]: ./test_images_output/solidWhiteCurve_hough.png "Line Segments - Hough"
-[image1]: ./test_images_output/solidWhiteCurve_finalLines.png "Final Lane Markings"
+[image2]: ./test_images_output/solidWhiteCurve_finalLines.png "Final Lane Markings"
 ---
 
 ### Reflection
