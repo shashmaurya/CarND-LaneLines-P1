@@ -12,8 +12,8 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./test_images_output/solidWhiteCurve_hough.png "Line Segments - Hough"
-[image2]: ./test_images_output/solidWhiteCurve_finalLines.png "Final Lane Markings"
+[image1]: ./test_images_output/Writeup_Images/solidWhiteCurve_hough.png "Line Segments - Hough"
+[image2]: ./test_images_output/Writeup_Images/solidWhiteCurve_finalLines.png "Final Lane Markings"
 ---
 
 ### Reflection
