@@ -3,6 +3,12 @@
 
 <img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
+
+
+**PLEASE NOTE: This README has been used as-is from Udacity to preserve the starting point of this project with the original problem statement and instructions. Steps taken to accomplish the requirements of this project are described in the [writeup](./writeup_project1.md)**
+
+
+
 Overview
 ---
 
